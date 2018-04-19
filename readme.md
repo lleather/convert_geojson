@@ -1,8 +1,8 @@
 # GeoJson Conversion
 
-##Prepared for Oregon State University, Geovisualization (GEOG 572)
+###Prepared for Oregon State University, Geovisualization (GEOG 572)
 
-### Data
+#### Data
 
 The data I chose for this project are Omernik Level III Ecoregions of the Continental United States. Provided by the [EPA](https://www.epa.gov/eco-research/level-iii-and-iv-ecoregions-continental-united-states), 
 
