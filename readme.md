@@ -1,6 +1,6 @@
 # GeoJson Conversion
 
-###Prepared for Oregon State University, Geovisualization (GEOG 572)
+Prepared for Oregon State University, Geovisualization (GEOG 572)
 
 #### Data
 
