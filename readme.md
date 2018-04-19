@@ -18,13 +18,11 @@ The data I chose for this project are Omernik Level III Ecoregions of the Contin
 
 #### References:
 
-[1]: Omernik, J.M., 1987. Ecoregions of the conterminous United States. *Annals of the Association of American geographers*, *77*(1), pp.118-125. https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8306.1987.tb00149.x
+Omernik, J.M., 1987. Ecoregions of the conterminous United States. *Annals of the Association of American geographers*, *77*(1), pp.118-125. [1]: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8306.1987.tb00149.x
+
+Omernik, J.M. and Griffith, G.E., 2014. Ecoregions of the conterminous United States: evolution of a hierarchical spatial framework. *Environmental management*, *54*(6), pp.1249-1266. [2]: https://link.springer.com/article/10.1007/s00267-014-0364-1
 
 
 
-[2]: Omernik, J.M. and Griffith, G.E., 2014. Ecoregions of the conterminous United States: evolution of a hierarchical spatial framework. *Environmental management*, *54*(6), pp.1249-1266. https://link.springer.com/article/10.1007/s00267-014-0364-1
 
-
-
-[3]: new reference
 
