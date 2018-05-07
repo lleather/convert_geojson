@@ -8,6 +8,8 @@ The data I chose for this project are Omernik Level III Ecoregions of the Contin
 
 > "Ecoregions are areas where ecosystems (and the type, quality, and quantity of environmental resources) are generally similar. This ecoregion framework is derived from Omernik (1987) [[1]](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8306.1987.tb00149.x) and from mapping done in collaboration with U.S.EPA regional offices, other Federal agencies, state resource management agencies, and neighboring North American countries (Omernik and Griffith 2014) [[2]]( https://link.springer.com/article/10.1007/s00267-014-0364-1)."
 
+![Map View](img/ecoreg.png)
+
 #### File Size:
 
 | name                          | size (MB) |
